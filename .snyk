@@ -1,0 +1,13 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.16.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:minimatch:20160620':
+    - minify > html-minifier > cli > glob > minimatch:
+        patched: '2020-07-20T07:12:00.318Z'
+  'npm:uglify-js:20151024':
+    - minify > uglify-js:
+        patched: '2020-07-20T07:12:00.318Z'
+    - minify > html-minifier > uglify-js:
+        patched: '2020-07-20T07:12:00.318Z'
