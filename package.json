@@ -28,15 +28,15 @@
   "license": "MIT",
   "dependencies": {
     "lru-cache": "2.5.0",
-    "jade": "0.35.0",
+    "jade": "1.8.0",
     "coffee-script": "^1.9.0",
     "ejs": "^1.0.0",
-    "node-sass": "^1.2.3",
+    "node-sass": "^3.5.1",
     "marked": "^0.3.3",
-    "less": "^1.7.5",
+    "less": "^2.7.0",
     "stylus": "0.47.3",
     "minify": "git://github.com/kennethormandy/minify#v0.3.0",
-    "autoprefixer": "5.1.0"
+    "autoprefixer": "6.0.0"
   },
   "devDependencies": {
     "mocha": "1.8.2",
