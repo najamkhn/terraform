@@ -34,7 +34,7 @@
     "node-sass": "^1.2.3",
     "marked": "^0.3.3",
     "less": "^1.7.5",
-    "stylus": "0.47.3",
+    "stylus": "0.64.0",
     "minify": "git://github.com/kennethormandy/minify#v0.3.0",
     "autoprefixer": "5.1.0"
   },
